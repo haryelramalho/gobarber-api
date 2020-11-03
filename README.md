@@ -36,9 +36,9 @@
   <a href="#-license">License</a>
 </p>
 
-<!-- <p id="insomniaButton" align="center">
-  <a href="" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p> -->
+<p id="insomniaButton" align="center">
+  <a href="https://insomnia.rest/run/?label=GoBarber%20-%20Haryel&uri=https%3A%2F%2Fgithub.com%2Fharyelramalho%2Fgobarber-api%2Fblob%2Fmaster%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</p>
 
 ## 💇🏻‍♂️ About the project
 
@@ -71,7 +71,7 @@ Technologies that I used to develop this api
 
 ## 💻 Getting started
 
-<!-- Import the `Insomnia.json` on Insomnia App or click on [Run in Insomnia](#insomniaButton) button -->
+Import the `Insomnia.json` on Insomnia App or click on [Run in Insomnia](#insomniaButton) button
 
 ### Requirements
 
